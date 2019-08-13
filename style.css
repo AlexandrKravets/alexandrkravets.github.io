@@ -147,15 +147,15 @@ a{
 }
 
 .table-column-left{
-    width: 280pt;
+    width: 220pt;
     padding-right: 18pt;
     padding-left: 18pt;
 } 
 
 .table-column-right{
-    width: 280pt;
+    width: 220pt;
     padding-right: 18pt;
-    padding-left: 18pt;
+    padding-left: 50pt;
 } 
 
 .experience-card{
