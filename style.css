@@ -147,19 +147,19 @@ a{
 }
 
 .table-column-left{
-    width: 220pt;
+    width: 280pt;
     padding-right: 18pt;
     padding-left: 18pt;
 } 
 
 .table-column-right{
-    width: 220pt;
+    width: 280pt;
     padding-right: 18pt;
     padding-left: 18pt;
 } 
 
 .experience-card{
-    width: 440pt;
+    width: 560pt;
     padding-right: 18pt;
     padding-left: 18pt;
     display: flex;
