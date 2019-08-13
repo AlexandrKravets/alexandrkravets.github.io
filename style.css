@@ -56,14 +56,6 @@ a{
     padding-right: 4pt;
 }
 
-.expirience{
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    padding-right: 4pt;
-    padding-left: 50pt;
-}
-
 .section {
     display: flex;
     flex-direction: row;
@@ -155,21 +147,21 @@ a{
 }
 
 .table-column-left{
-    width: 220pt;
+    width: 210pt;
     padding-right: 18pt;
-    padding-left: 50pt;
+    padding-left: 10pt;
 } 
 
 .table-column-right{
-    width: 220pt;
+    width: 230pt;
     padding-right: 18pt;
-    padding-left: 50pt;
+    padding-left: 8pt;
 } 
 
 .experience-card{
-    width: 560pt;
+    width: 440pt;
     padding-right: 18pt;
-    padding-left: 50pt;
+    padding-left: 18pt;
     display: flex;
     flex-direction: column;
 }
@@ -200,5 +192,5 @@ a{
 }
 
 .padding-left-custom{
-    padding-left: 50pt;
+    padding-left: 18pt;
 }
