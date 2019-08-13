@@ -54,6 +54,7 @@ a{
     flex-direction: row;
     align-items: center;
     padding-right: 4pt;
+    padding-left: 50pt;
 }
 
 .section {
@@ -149,7 +150,7 @@ a{
 .table-column-left{
     width: 220pt;
     padding-right: 18pt;
-    padding-left: 18pt;
+    padding-left: 50pt;
 } 
 
 .table-column-right{
@@ -161,7 +162,7 @@ a{
 .experience-card{
     width: 560pt;
     padding-right: 18pt;
-    padding-left: 18pt;
+    padding-left: 50pt;
     display: flex;
     flex-direction: column;
 }
@@ -192,5 +193,5 @@ a{
 }
 
 .padding-left-custom{
-    padding-left: 18pt;
+    padding-left: 50pt;
 }
