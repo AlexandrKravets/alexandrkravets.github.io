@@ -54,6 +54,13 @@ a{
     flex-direction: row;
     align-items: center;
     padding-right: 4pt;
+}
+
+.expirience{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-right: 4pt;
     padding-left: 50pt;
 }
 
